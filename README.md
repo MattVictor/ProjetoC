@@ -1,5 +1,5 @@
 # ProjetoC
-Projeto de Segundo Período da Faculdade
+Projeto realizado no Segundo Período da Graduação em Ciência da Computação (UEPB)
 
 Linguagem C
 
